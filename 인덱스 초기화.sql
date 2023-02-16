@@ -1,0 +1,1 @@
+ALTER TABLE `player` AUTO_INCREMENT=1; SET @COUNT = 0; UPDATE `player` SET idx = @COUNT:=@COUNT+1;
